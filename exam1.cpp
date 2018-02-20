@@ -3,7 +3,7 @@ using namespace std;
 
 
 int main() {
-    int a,b,cmd,reusult_1,reusult_2,reusult_3,reusult_4;
+    float a,b,cmd,reusult_1,reusult_2,reusult_3,reusult_4;
     cout << "Welcome to CLI Calculator V1.00"<<endl;
     cout <<"Number 1 : "  ;
     cin >>a;
